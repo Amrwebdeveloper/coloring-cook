@@ -1,0 +1,15 @@
+*.mp4
+*.pdf
+*.zip
+*.rar
+*.ai
+*.psd
+*.indd
+*.idml
+node_modules/
+.env
+.npm/
+logs/
+dist/
+coverage/
+.vscode/
